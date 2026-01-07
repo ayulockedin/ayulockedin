@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ayulockedin/ayulockedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ayush Kumar
 
-Here are some ideas to get you started:
+Computer Engineering Undergraduate | Specialization in Artificial intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Engineering undergraduate specializing in machine learning and Artificial Intelligence. Experienced in building end-to-end AI products including fine-tuned large language models, retrieval-augmented generation pipelines, and computer vision systems deployed with production-style APIs and UIs. Strong in Python and PyTorch, with hands-on experience optimizing inference, designing scalable ML pipelines.
+
+[Email](mailto:preetndt@gmail.com) 
+
+
+<div align="center">
+<br>
+</div>
